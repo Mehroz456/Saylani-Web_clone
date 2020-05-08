@@ -1,0 +1,48 @@
+
+.navbar1{
+    background-color: rgb(41, 41, 245);
+}
+.lableh{
+    margin-right: auto;
+    margin-left: auto;
+}
+.collapse a:hover{
+    color: white !important;
+    background-color: rgb(41, 41, 245);
+  	 border-radius: 25px;
+}
+.flank{
+    padding-left: 400px;
+}
+.fonts{
+font-family:sans-serif;
+font-size:10px
+}
+
+.roundedborder{
+	 border-radius: 25px;
+  background: rgb(41, 41, 245);
+  padding: 4px;
+  width: 100px;
+  height: 40px;
+}
+
+.box-shadow11{
+	box-shadow: rgba(0, 0, 0, 0.27) 0px 0px 20px 0px; 
+	background-color: rgb(231, 166, 26);
+	padding:30px;
+	margin:15px;
+}
+
+.tom{
+    box-shadow: rgba(0, 0, 0, 0.27) 0px 0px 20px 0px;
+    background-color: rgb(231, 166, 26);
+}
+
+@media only screen and (maxiwidth: 415px){
+    .navbar .try{
+        position: absolute;
+        left: auto;
+        right: 0;
+    }
+}
